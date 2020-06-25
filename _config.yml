@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#setting up a different aesthetic from original minimal_mistakes site
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Julie Vaughn"
@@ -81,11 +88,11 @@ analytics:
 # Site Author
 author:
   name             : "Julie Vaughn"
-  avatar           : "profile.png"
-  bio              : "AI for Healthcare | Ethical and Fair ML | Tech for Social Good"
+  avatar           : "small_pic.png"
+  bio              : "ML for Healthcare & Fairness"
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5hITqgUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +109,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/julie-vaughn/"
+  linkedin         : "julie-vaughn"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -146,6 +153,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
