@@ -47,31 +47,31 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-// $gray                       : #7a8288;
-// $dark-gray                  : mix(#000, $gray, 40%);
-// $darker-gray                : mix(#000, $gray, 60%);
-// $light-gray                 : mix(#fff, $gray, 50%);
-// $lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-// $body-color                 : #fff;
-// $background-color           : #b1e2e3;
-// $code-background-color      : #fafafa;
-// $code-background-color-dark : $light-gray;
-// $text-color                 : $dark-gray;
-// $border-color               : #52adc8;
+$body-color                 : #fff;
+$background-color           : #b1e2e3;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : #52adc8;
 
-$gray                       : #1976d2 !default;
-$dark-gray                  : mix(#000, $gray, 40%) !default;
-$darker-gray                : mix(#000, $gray, 60%) !default;
-$light-gray                 : mix(#fff, $gray, 50%) !default;
-$lighter-gray               : mix(#fff, $gray, 90%) !default;
+// $gray                       : #1976d2 !default;
+// $dark-gray                  : mix(#000, $gray, 40%) !default;
+// $darker-gray                : mix(#000, $gray, 60%) !default;
+// $light-gray                 : mix(#fff, $gray, 50%) !default;
+// $lighter-gray               : mix(#fff, $gray, 90%) !default;
 
-$body-color                 : #fff !default;
-$background-color           : #f0fff0 !default;
-$code-background-color      : $lighter-gray !default;
-$code-background-color-dark : $light-gray !default;
-$text-color                 : $dark-gray !default;
-$border-color               : $lighter-gray !default;
+// $body-color                 : #fff !default;
+// $background-color           : #f0fff0 !default;
+// $code-background-color      : $lighter-gray !default;
+// $code-background-color-dark : $light-gray !default;
+// $text-color                 : $dark-gray !default;
+// $border-color               : $lighter-gray !default;
 
 $primary-color              : #b1e2e3;
 $success-color              : #62c462;

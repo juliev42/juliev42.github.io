@@ -1,9 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Dataset Bias in Diagnostic AI systems:
+Guidelines for Dataset Collection and Usage"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/bias_policy
 excerpt: 'This paper describes a technical and policy framework for developing less biased/more robust healthcare AI systems.'
-date: 2010-10-01
+date: 2020-07-21
 venue: 'ACM Conference in Health, Inference, and Learning, 2020 Workshop Paper'
 paperurl: 'http://juliev42.github.io/files/CHIL_paper_bias.pdf'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
