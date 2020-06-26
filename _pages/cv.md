@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering and Computer Science, Minor in Biomedical Engineering Massachusetts Institute of Technology, 2016-2020 
+* M.Eng. in Artificial Intelligence, Massachusetts Institute of Technology, 2020-2021
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - Present: Research Assistant @ MEDG Szolovits Lab
+  * Researched bias in medical algorithms and medical datasets
+  * Co-wrote a paper combining technical bias definitions and policy
+  * Continuing research on counterfactual fairness in AI for healthcare
+  * Mentor: Willie Boag
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018, Spring 2019, and Fall 2020: Course Staff @ MIT Intro to ML (6.036)
+  * Lab Assistant in Spring 2018/2019, TA in Fall 2020
+  * Helped answer student questions, give checkoffs, and simplify tricky ML topics
+
+* Summer 2019: Data Science Intern @ Centaur Labs (YC Startup)
+  * Analyzed user behavior with python scripts
+  * Delivered insights for product improvements
+  * Helped start the company blog
+
+* Summer 2018: Research Intern @ Philips Research North America
+  * Developed algorithms in MATLABS to process 3D camera data
+  * Created a MATLAB application to help monitor paralyzed patients
+  * Filed two invention disclosures and presented work at EMBC 2019
+  * Supervisor: Dr. Saman Parvaneh
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Python
+  * Pandas
+  * Numpy
+  * SKLearn
+  * TensorFlow
+* Probability & Statistics
+* Inference
+* MATLAB
+* Writing & Teaching
 
 Publications
 ======
@@ -54,6 +68,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+MIT NEET Living Machines Founding Class
+MIT Healthy Relationships Peer Educator 
