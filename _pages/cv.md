@@ -31,6 +31,10 @@ Work Experience
   * Delivered insights for product improvements
   * Helped start the company blog
 
+* January 2019: Data Science Intern @ mDoc (South Africa)
+  * Analyzed social determinants of chronic disease from patient survey results
+  * Prototyped a dashboard to monitor participant compliance
+
 * Summer 2018: Research Intern @ Philips Research North America
   * Developed algorithms in MATLABS to process 3D camera data
   * Created a MATLAB application to help monitor paralyzed patients
