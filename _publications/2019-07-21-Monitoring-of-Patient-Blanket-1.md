@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-07-27-Monitoring-of-Patient-Blanket-1
 excerpt: 'At Philips Research North America, I used MATLAB to process Kinect sensor data and create a monitoring system for use with paralyzed patients.'
 date: 2019-07-27
-venue: 'IEEE Engineering in Medicine and Biology Conference'
+venue: 'IEEE Xplore'
 paperurl: 'https://ieeexplore.ieee.org/document/8856522'
 citation: 'J. Vaughn, M. Milosevic and S. Parvaneh, "Monitoring of Patient Blanket Coverage using 3D Camera Data," 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Berlin, Germany, 2019, pp. 864-867, doi: 10.1109/EMBC.2019.8856522.'
 ---
