@@ -2,7 +2,7 @@
 title: "6.036: Intro to ML"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/6036-introml-mit
 venue: "MIT, EECS"
 date: 2020-02-08
 location: "Cambridge, USA"

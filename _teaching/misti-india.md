@@ -2,7 +2,7 @@
 title: "Healthcare Design Thinking Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/misti-india
 venue: "MIT India Initiative"
 date: 2020-01-23
 location: "Mumbai, India"

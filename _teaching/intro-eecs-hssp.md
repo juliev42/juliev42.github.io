@@ -2,7 +2,7 @@
 title: "Co-Instructor: Intro to EECS"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/intro-eecs-hssp
 venue: "MIT Educational Studies Program: HSSP"
 date: 2019-06-30
 location: "Cambridge, USA"

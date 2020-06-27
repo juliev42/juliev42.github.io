@@ -2,7 +2,7 @@
 title: "Beautiful Patterns: Coding Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/beautiful-patterns
 venue: "Universidad de Panamericana, Engineering"
 date: 2019-05-30
 location: "Aguascalientes, Mexico"

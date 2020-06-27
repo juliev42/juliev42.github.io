@@ -56,6 +56,7 @@ Skills
 * Probability & Statistics
 * Inference
 * MATLAB
+* Design Thinking
 * Writing & Teaching
 
 Publications
