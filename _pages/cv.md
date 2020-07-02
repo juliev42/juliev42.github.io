@@ -52,7 +52,6 @@ Skills
   * Pandas
   * Numpy
   * SKLearn
-  * TensorFlow
 * Probability & Statistics
 * Inference
 * MATLAB
@@ -82,3 +81,7 @@ Service and Leadership
 MIT NEET Living Machines Founding Class
 
 MIT Healthy Relationships Peer Educator 
+
+<!-- Awards
+======
+Athena Pinnacle Scholar, MIT Sandbox Innovation Fellow,  Intel Science Talent Search Seminfinalist,  -->
