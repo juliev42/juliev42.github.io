@@ -16,16 +16,20 @@ Education
 
 Work Experience
 ======
-* Fall 2019 - Present: Research Assistant @ MEDG Szolovits Lab
+* Winter 2019 - Present: Research Assistant @ MEDG Szolovits Lab
   * Researched bias in medical algorithms and medical datasets
   * Co-wrote a paper combining technical bias definitions and policy
   * Continuing research on counterfactual fairness in AI for healthcare
   * Mentor: Willie Boag
 
-
 * Spring 2018, Spring 2019, and Fall 2020: Course Staff @ MIT Intro to ML (6.036)
-  * Lab Assistant in Spring 2018/2019, TA in Fall 2020
+  * Lab Assistant in Spring 2018/2019, Teaching Assistant in Fall 2020
   * Helped answer student questions, give checkoffs, and simplify tricky ML topics
+  * Fall 2020: lead weekly problem-solving sections and updated course content
+
+* Summer 2020: Machine Learning Intern @ DeepHealth
+  * Worked on data visualization and experiments to increase accuracy 
+  * Assisted with clinical trial documentation
 
 
 * Summer 2019: Data Science Intern @ Centaur Labs (YC Startup)
