@@ -26,7 +26,6 @@ Work Experience
   * Helped answer student questions, give checkoffs, and simplify tricky ML topics
   * Fall 2020: lead weekly problem-solving sections and updated course content
 
-
 * Summer 2020: Machine Learning Intern @ DeepHealth
   * Worked on data visualization and experiments to increase accuracy 
   * Assisted with clinical trial documentation
