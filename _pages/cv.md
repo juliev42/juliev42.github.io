@@ -19,12 +19,12 @@ Work Experience
 * Winter 2019 - Present: Research Assistant @ MEDG Szolovits Lab
   * Researched bias in medical algorithms and medical datasets
   * Co-wrote a paper combining technical bias definitions and policy
-  * Continuing research on bias in EHR data using NLP techniques
+  * Continuing research on pain metrics and bias in EHR data using NLP techniques in collaboration with Brigham and Woman's Hospital (BWH)
 
-* Spring 2018, Spring 2019, and Fall 2020: Course Staff @ MIT Intro to ML (6.036)
-  * Lab Assistant in Spring 2018/2019, Teaching Assistant in Fall 2020
+* Spring 2018, Spring 2019, Fall 2020, and Spring 2021: Course Staff @ MIT Intro to ML (6.036)
+  * Lab Assistant in Spring 2018/2019, TA in 2020-2021
   * Helped answer student questions, give checkoffs, and simplify tricky ML topics
-  * Fall 2020: lead weekly problem-solving sections and updated course content
+  * Lead weekly problem-solving sections, supported students, and updated course content
 
 * Summer 2020: Machine Learning Intern @ DeepHealth
   * Worked on data visualization and experiments to increase accuracy 
@@ -54,6 +54,7 @@ Skills
   * Pandas
   * Numpy
   * SKLearn
+  * PyTorch
 * Probability & Statistics
 * Inference
 * MATLAB
@@ -82,7 +83,15 @@ Service and Leadership
 ======
 MIT NEET Living Machines Founding Class
 
-MIT Healthy Relationships Peer Educator 
+MIT PLEASURE - Healthy Relationships Peer Educator 
+
+MIT International Science and Technology Initiative (MISTI)
+
+MIT Sandbox Innovation Program Fellow
+
+Priscilla King Gray Public Service Fellow, Summer 2021
+
+
 
 <!-- Awards
 ======
