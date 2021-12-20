@@ -16,7 +16,11 @@ Education
 
 Work Experience
 ======
-* Winter 2019 - Present: Research Assistant @ MEDG Szolovits Lab
+* Present: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
+  * Supporting clinical trial planning and a variety of cross-functional projects to bring the first-ever longevity drugs to market. 
+  * Studying dogs as a model organism for aging. 
+
+* Winter 2019 - Summer 2021: Research Assistant @ MEDG Szolovits Lab
   * Researched bias in medical algorithms and medical datasets
   * Co-wrote a paper combining technical bias definitions and policy
   * Continuing research on pain metrics and bias in EHR data using NLP techniques in collaboration with Brigham and Woman's Hospital (BWH)
