@@ -17,8 +17,9 @@ Education
 Work Experience
 ======
 * Present: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
-  * Supporting clinical trial planning and a variety of cross-functional projects to bring the first-ever longevity drugs to market. 
-  * Studying dogs as a model organism for aging. 
+  * Contributed to clinical trial design and a variety of cross-functional research projects to bring the first-ever longevity drugs to market. 
+  * Helped develop internal data science tools for use across the team
+  * Took leadership on the delivery of X-Thousand Dogs results, facilitating rapid iteration between design, engineering, and user testing
 
 * Winter 2019 - Summer 2021: Research Assistant @ MEDG Szolovits Lab
   * Researched bias in medical algorithms and medical datasets
@@ -59,10 +60,13 @@ Skills
   * Numpy
   * SKLearn
   * PyTorch
+* GitHub
 * Probability & Statistics
 * Inference
-* MATLAB
+* SQL, MATLAB, Java, C, Linux
+* Facilitation & Team Management
 * Design Thinking
+* Rapid Prototyping
 * Writing & Teaching
 
 Publications
