@@ -48,7 +48,7 @@ Work Experience
 
 
 * Summer 2018: Research Intern @ Philips Research North America
-  * Developed algorithms in MATLABS to process 3D camera data
+  * Developed algorithms in MATLAB to process 3D camera data
   * Created a MATLAB application to help monitor paralyzed patients
   * Filed two invention disclosures and presented work at EMBC 2019
   
