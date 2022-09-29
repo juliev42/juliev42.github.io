@@ -19,7 +19,7 @@ Work Experience
 * Present: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
   * Contributed to clinical trial design and a variety of cross-functional research projects to bring the first-ever longevity drugs to market. 
   * Helped develop internal data science tools for use across the team
-  * Took leadership on the delivery of X-Thousand Dogs results, facilitating rapid iteration between design, engineering, and user testing
+  * Took leadership on the delivery of X-Thousand Dogs results, facilitating communication and rapid iteration between design, engineering, and user testing
 
 * Winter 2019 - Summer 2021: Research Assistant @ MEDG Szolovits Lab
   * Researched bias in medical algorithms and medical datasets
