@@ -1,7 +1,7 @@
 ---
 title: "Evaluating instruments for assessing healthspan: a multi-center cross-sectional study on health-related quality of life (HRQL) and frailty in the companion dog"
 collection: publications
-permalink: /publication/healthspan
+permalink: /publication/2022-01-01-Healthspan
 excerpt: 'I contributed to some exploratory statistical analyses in the measures of healthspan presented in this paper.'
 date: 2022-01-01
 venue: 'BioRXiv'
