@@ -10,3 +10,5 @@ citation: 'Chen, Frances L., et al. "Evaluating instruments for assessing health
 
 ---
 This work gives a flavor of the variety of data I worked with in my first months at Loyal. 
+
+[Download paper here](https://www.biorxiv.org/content/biorxiv/early/2022/07/22/2022.07.21.500746.full.pdf)
