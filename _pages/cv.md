@@ -16,7 +16,11 @@ Education
 
 Work Experience
 ======
-* Present: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
+* Present: Cofounder @ Fylo Health 
+  * Creating faster ways for women to learn about topics like birth control
+  * At Fylo Health, we believe that access to accurate information about sexual health is a fundamental right, and our goal is to make this information accessible to all.
+
+* Summer 2021-Winter 2023: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
   * Contributed to clinical trial design and a variety of cross-functional research projects to bring the first-ever longevity drugs to market. 
   * Helped develop internal data science tools for use across the team
   * Took leadership on the delivery of X-Thousand Dogs results, facilitating communication and rapid iteration between design, engineering, and user testing
