@@ -16,8 +16,8 @@ Education
 
 Work Experience
 ======
-* Present: Cofounder @ Fylo Health 
-  * Creating the one-stop-shop for sexual health and fueling the femtech ecosystem
+* Present: Cofounder @ Fylo Health, CTO
+  * Creating the AI-powered one-stop-shop for sexual health and fueling the femtech ecosystem
   * Defining faster, less frustrating ways for women to learn about topics like birth control
   * Thesis: Access to accurate information about sexual health is a fundamental right, and it should be accessible to all.
 
