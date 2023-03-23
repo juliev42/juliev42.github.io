@@ -17,8 +17,9 @@ Education
 Work Experience
 ======
 * Present: Cofounder @ Fylo Health 
-  * Creating faster ways for women to learn about topics like birth control
-  * At Fylo Health, we believe that access to accurate information about sexual health is a fundamental right, and our goal is to make this information accessible to all.
+  * Creating the one-stop-shop for sexual health and fueling the femtech ecosystem
+  * Defining faster, less frustrating ways for women to learn about topics like birth control
+  * Thesis: Access to accurate information about sexual health is a fundamental right, and it should be accessible to all.
 
 * Summer 2021-Winter 2023: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
   * Contributed to clinical trial design and a variety of cross-functional research projects to bring the first-ever longevity drugs to market. 
@@ -72,6 +73,7 @@ Skills
 * Design Thinking
 * Rapid Prototyping
 * Writing & Teaching
+* Web Development
 
 Publications
 ======
