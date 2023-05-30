@@ -16,10 +16,11 @@ Education
 
 Work Experience
 ======
-* Present: Cofounder @ Fylo Health, CTO
-  * Creating the AI-powered one-stop-shop for sexual health and fueling the femtech ecosystem
-  * Defining faster, less frustrating ways for women to learn about topics like birth control
-  * Thesis: Access to accurate information about sexual health is a fundamental right, and it should be accessible to all.
+* Winter 2023 - Present: Founder @ Stealth
+  * Worked on a femtech AI startup before pivoting to focus on AI safety
+  * Gained experience in business development, product design, web development, UI/UX, fundraising, and management. Founder in Residence at Antler (VC). 
+  * Developed full-stack web applications with MEVN stack (MongoDB, Express, Vue, Node.js).
+
 
 * Summer 2021-Winter 2023: Data Scientist at Cellular Longevity, Inc. (dba Loyal)
   * Contributed to the first-ever FDA-approved longevity clinical trial design and a variety of cross-functional research projects to bring longevity drugs to market. 
