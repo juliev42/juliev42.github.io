@@ -17,7 +17,7 @@ Education
 Work Experience
 ======
 * Winter 2023 - Present: Founder @ Stealth
-  * Worked on a femtech AI startup before pivoting to focus on AI safety
+  * Working at the intersection of healthcare and AI
   * Gained experience in business development, product design, web development, UI/UX, fundraising, and management. Founder in Residence at Antler (VC). 
   * Developed full-stack web applications with MEVN stack (MongoDB, Express, Vue, Node.js).
 
