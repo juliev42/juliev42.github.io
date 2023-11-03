@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Computer Science, Minor in Biomedical Engineering, Massachusetts Institute of Technology, 2016-2020 
-* M.Eng. in Electrical Engineering and Computer Science, AI Concentration, Massachusetts Institute of Technology, 2020-2021
+* B.S. in Electrical Engineering and Computer Science (Minor in Biomedical Engineering) Massachusetts Institute of Technology, 2016-2020 
+* M.Eng. in Electrical Engineering and Computer Science (AI Concentration) Massachusetts Institute of Technology, 2020-2021
 
 Work Experience
 ======
