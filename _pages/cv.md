@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Computer Science (Minor in Biomedical Engineering) Massachusetts Institute of Technology, 2016-2020 
-* M.Eng. in Electrical Engineering and Computer Science (AI Concentration) Massachusetts Institute of Technology, 2020-2021
+* B.S. in Electrical Engineering and Computer Science (Minor in Biomedical Engineering), Massachusetts Institute of Technology, 2016-2020 
+* M.Eng. in Electrical Engineering and Computer Science (AI Concentration), Massachusetts Institute of Technology, 2020-2021
 
 Work Experience
 ======
@@ -103,12 +103,20 @@ MIT PLEASURE - Healthy Relationships Peer Educator
 
 MIT International Science and Technology Initiative (MISTI)
 
-MIT Sandbox Innovation Program Fellow
+MIT Sandbox Innovation Fellow
 
 Priscilla King Gray Public Service Fellow, Summer 2021
 
+Rosy's Place Technology Assistant
 
 
-<!-- Awards
+
+Awards
 ======
-Athena Pinnacle Scholar, MIT Sandbox Innovation Fellow,  Intel Science Talent Search Seminfinalist,  -->
+Emergent Ventures Grantee
+
+MIT IDEAS Finalist
+
+MIT MEMSI Entreprenuership Award
+
+Athena Pinnacle Scholar
